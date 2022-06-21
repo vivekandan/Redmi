@@ -28,5 +28,8 @@ public class Sample1 {
 		
 		//a.dismiss();
 			a.accept();	
+			
+			System.out.println("System");
+			
 	}
 }
